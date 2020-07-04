@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "kafka_host": "localhost:9092",
+  "kafka_topics": "example-topic"
+}

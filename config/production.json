@@ -1,0 +1,4 @@
+{
+  "host": "kafka-redis-jest-example-app.feathersjs.com",
+  "port": "PORT"
+}

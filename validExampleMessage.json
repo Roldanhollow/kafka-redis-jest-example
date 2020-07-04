@@ -1,0 +1,15 @@
+{
+  "user": {
+    "name": "NAME"
+  },
+  "addresses": [
+    {
+      "address": "137Street Av19",
+      "telephone": 300252552
+    },
+    {
+      "address": "7Street Av19",
+      "telephone": 300252352
+    }
+  ]
+}

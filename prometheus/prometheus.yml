@@ -1,0 +1,10 @@
+scrape_configs:
+  - job_name: "kafka-redis-jest-example"
+    scrape_interval: 10s
+    metrics_path: "/metrics"
+    static_configs:
+      - targets: [192.168.0.9:3030]
+        labels:
+          group: "kafkaredisjestexample"
+# https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04
+# https://www.innoq.com/en/blog/prometheus-counters/
