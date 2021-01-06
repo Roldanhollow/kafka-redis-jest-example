@@ -71,7 +71,7 @@
     "@types/jest": "^26.0.0",
     "@types/serve-favicon": "^2.5.0",
     "@types/uuid": "^3.4.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jest": "^26.0.1",
     "kafkajs": "^1.12.0",
     "morgan": "^1.10.0",
